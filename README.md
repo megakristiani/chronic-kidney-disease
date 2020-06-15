@@ -11,7 +11,7 @@ The kidney is a metabolic organ that regulates your body fluids and blood. It ex
 Based on the data, there is 5 kind of disease: hypertension (htn), diabetes Mellitus (dm), coronary artery disease (cad), pedal edema (pe), ane (anemia). We will see what kind of disease usually showed in CKD patience?
 
 <p align="center">
-  <img width="460" height="300" src=" https://github.com/megakristiani/chronic-kidney-disease/blob/master/5disease.png ">
+  <img width="460" height="300" src="https://github.com/megakristiani/chronic-kidney-disease/blob/master/5disease.png">
 </p>
 
 As we can see, hypertension, diabetes mellitus, and pedal edema are commonly diagnosed with CKD patients. And more than 50% CKD patience getting anemia.
@@ -34,11 +34,11 @@ I applied the Logistic Regression method as a model that predicts the result (be
 
 <p align="center"> Data Test
   
-  <img width="460" height="300" src=" https://github.com/megakristiani/chronic-kidney-disease/blob/master/test.png ">
+  <img width="460" height="300" src="https://github.com/megakristiani/chronic-kidney-disease/blob/master/test.png">
 </p>
 
 <p align="center"> Data Train
   
-  <img width="460" height="300" src=" https://github.com/megakristiani/chronic-kidney-disease/blob/master/train.png ">
+  <img width="460" height="300" src="https://github.com/megakristiani/chronic-kidney-disease/blob/master/train.png">
 </p>
 
